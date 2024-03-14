@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+title: Colégio Alumni Arautos do Oeste Nº 10
+email: contato@colegioarautosdooeste.com.br
+url: colegioarautosdooeste.com.br
+description: "Pagina do Colegio Alumni Arautos do Oeste, vinculado ao Capitulo Cascavel 425"
+keywords: "Colegio Alumni, Alumni, DeMolay, Capitulo Cascavel"
+skills: "Informações sobre o 1º Churrasco da Associação DeMolay Alumni do Estado do Paraná - ADAE-PR"
+meta_author: Arautos do Oeste
 
 # Google webmaster tools
 google_verify:
@@ -32,31 +32,22 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  location: Local do Evento
+  social: Rede Social
+  credits: Dúvidas
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
+  - title: instagram
+    url: https://www.instagram.com/arautosdooeste10
+    
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Chácara Cobezal
+  - line: Rua XYZ, Nº 133 - Após Tal Lugar
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Ir. Guilherme Konig - (45) 99825-XXXX'
 
 # Build settings
 markdown: kramdown
