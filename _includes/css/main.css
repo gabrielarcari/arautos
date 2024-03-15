@@ -83,7 +83,10 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
+	background-image: url("https://i.imgur.com/rLtpVmy.jpg");
+	/*!
     background: #{{ site.color.primary }};
+	 */
 }
 
 header .container {
