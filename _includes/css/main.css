@@ -84,6 +84,8 @@ header {
     text-align: center;
     color: #fff;
 	background-image: url("https://i.imgur.com/rLtpVmy.jpg");
+	  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
 	/*!
     background: #{{ site.color.primary }};
 	 */
