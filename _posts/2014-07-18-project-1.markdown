@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: O valor do ingresso será de R$ 80,00 por pessoa.</br>No ingresso, estará incluída a comida e bebida em estoque para o dia de evento (chopp e refrigerante).</br>O link para a compra dos ingressos será disponibilizado em breve.</br></br><i>Haverão unidades limitadas de copos térmicos personalizados do evento para compra na hora</i>
 ---
