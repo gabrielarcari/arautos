@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: O valor do ingresso será de R$ 80,00 por pessoa.</br>No ingresso, estará incluída a comida e bebida em estoque para o dia de evento (chopp e refrigerante).</br>O link para a compra dos ingressos será disponibilizado em breve.</br></br><i>Haverão unidades limitadas de copos térmicos personalizados do evento para compra na hora</i>
+description: O valor do ingresso será de R$ 80,00 por pessoa.</br></br><b>Pratos</b> - Costelão e acompanhamentos</br><b>Bebibas</b> - Chopp, Refrigerantes e Água</br></br>O link para a compra dos ingressos será disponibilizado em breve.</br></br><i>Haverão unidades limitadas de copos térmicos personalizados do evento para compra na hora</i>
 ---
