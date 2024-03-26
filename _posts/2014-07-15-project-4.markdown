@@ -4,7 +4,7 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-project-date: April 2014
+project-date: 26-03-24
 client: Start Bootstrap
 category: Web Development
 description: <font size=7>*SUGESTÕES DE ESTADIA*</font></br>
