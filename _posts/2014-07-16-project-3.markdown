@@ -4,8 +4,8 @@ modal-id: 3
 date: 2014-07-16
 img: circus.png
 alt: image-alt
-project-date: April 2014
+project-date: 26-03-24
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: O evento terá início a partir das 11h, no dia 22-05-2024, na Chácara Cobezal.</br>Pratos: Costelão e acompanhamentos</br>Bebibas: Chopp, Refrigerantes e Água</br>Jogos: Campeonato de Truco - Inscrição na hora - R$ 30,00 por dupla</br></br>*Alimentação e Bebidas inclusas no Ingresso*
 ---
