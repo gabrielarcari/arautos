@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 26-03-24
 client: Start Bootstrap
 category: Web Development
-description: O evento terá início a partir das 11h, no dia 22-05-2024, na Chácara Cobezal.</br></br><b>Pratos</b> - Costelão e acompanhamentos</br><b>Bebibas</b> - Chopp, Refrigerantes e Água</br><b>Jogos</b> - Campeonato de Truco (Inscrição na hora ~ R$ 30,00 por dupla)</br></br><i>Alimentação e Bebidas inclusas no Ingresso</i>
+description: O evento terá início a partir das 11h, no dia 25-05-2024, na Chácara Cobezal.</br></br><b>Pratos</b> - Costelão e acompanhamentos</br><b>Bebibas</b> - Chopp, Refrigerantes e Água</br><b>Jogos</b> - Campeonato de Truco (Inscrição na hora ~ R$ 30,00 por dupla)</br></br><i>Alimentação e Bebidas inclusas no Ingresso</i>
 ---
