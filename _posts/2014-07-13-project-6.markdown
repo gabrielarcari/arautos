@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 26-03-24
 client: Start Bootstrap
 category: Web Development
-description: Comissão de Organização:</br></br>Ir. XXX - (45) 99122-8899</br>Ir. XXX - (45) 99122-8899</br>Ir. XXX - (45) 99122-8899
+description: Comissão de Organização:</br></br>Ir. Guilherme Konig - 45 99928-8026 - Presidente do Colégio Alumni Arautos do Oeste</br>Ir. João Gabriel Slovinski - 45 99996-4371 - Comissão do Evento (Arautos)</br>Ir. Lauro Chanca Neto - 43 99966-5018 - Comissão do Evento (ADAE)
 ---
