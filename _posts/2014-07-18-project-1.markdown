@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 26-03-24
 client: Start Bootstrap
 category: Web Development
-description: O valor do ingresso será de R$ 80,00 por pessoa.</br></br><b>Pratos</b> - Costelão e acompanhamentos</br><b>Bebibas</b> - Chopp, Refrigerantes e Água</br></br><a href="https://forms.gle/pCBVT7hyoFVmWNb39">Clique aqui</a> para acessar a compra de ingressos.</br></br><i>Haverão unidades limitadas de copos térmicos personalizados do evento para compra na hora</i>
+description: O valor do ingresso será de R$ 80,00 por pessoa. (Seniores regulares pagam R$ 70,00)</br></br><b>Pratos</b> - Costelão e acompanhamentos</br><b>Bebibas</b> - Chopp, Refrigerantes e Água</br></br><a href="https://forms.gle/pCBVT7hyoFVmWNb39">Clique aqui</a> para acessar a compra de ingressos.</br></br><i>Haverão unidades limitadas de copos térmicos personalizados do evento para compra na hora</i>
 ---
